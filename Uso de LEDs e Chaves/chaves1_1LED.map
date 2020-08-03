@@ -1,0 +1,40 @@
+MPLINK 4.35, Linker
+Linker Map File - Created Fri May 17 16:22:41 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000024
+.config_2007_CHAVES1_1LED.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000011      
+                            0x002007    0x002007      
+            19 out of 2183 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                BOTAO_LIB   0x00000e    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+               BOTAO_PRES   0x000010    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+                   INICIO   0x000001    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+                     MAIN   0x00000b    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000001    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+                     MAIN   0x00000b    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+                BOTAO_LIB   0x00000e    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+               BOTAO_PRES   0x000010    program     static E:\Arquitetura de computadores 2\PIC\PIC_Aula 2\4_PIC_aula02\2_PIC_aula02_MPLAB\PIC_aula02\chaves1_1LED.asm
+
+
